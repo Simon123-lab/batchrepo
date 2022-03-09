@@ -1,0 +1,29 @@
+1 ) Store
+2 ) Property Selling
+3 ) Courses
+4 ) Security Services
+5 ) Tourism
+
+
+Step 1 
+Entities
+
+1) Agent
+2) Ads
+3) Customer
+4) Admin
+5) Category
+6) purchase list 
+
+
+Step 2
+
+1 ) Admin
+2 ) Agent
+3 ) Category
+4 ) Ads
+5 ) Customer
+6 ) Purchase List
+
+
+
